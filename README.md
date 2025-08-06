@@ -90,6 +90,8 @@ done
 
 ## Captura de Pantalla
 
+[[https://github.com/OscarGomez-jpg/ArquitecturaSFV-P1/blob/main/capturas/ejemplo.jpeg]]
+
 ## Mejoras Futuras
 
 [Describe al menos 3 mejoras que podrían implementarse en el futuro]
