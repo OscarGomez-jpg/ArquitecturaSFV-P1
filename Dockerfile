@@ -1,4 +1,3 @@
-# Use an official base image
 FROM node
 
 WORKDIR /app
